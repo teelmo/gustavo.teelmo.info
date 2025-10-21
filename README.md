@@ -1,6 +1,6 @@
 # gustavo.teelmo.info
 
-**Live demo** https://unctad-infovis.github.io/gustavo.teelmo.info/
+**Live demo** https://teelmo.github.io/gustavo.teelmo.info/
 
 ## Rights of usage
 
